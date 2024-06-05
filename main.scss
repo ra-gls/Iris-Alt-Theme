@@ -20,3 +20,31 @@
     --sn-stylekit-sans-serif-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
         'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
+
+.bg-info {
+    background-color: #88c0d0;
+}
+button:hover .bg-info {
+  background-color: #c3dfe7;
+}
+#navigation, #navigation #navigation-content {
+    background-color: #f9fafb;
+}
+#navigation .section-title-bar {
+    color: #2e3440;
+}
+.text-neutral {
+    color: #727a89;
+}
+#navigation .tag.selected {
+    background-color: #fcfcfd;
+}
+.text-info {
+    color: #88c0d0;
+}
+#navigation .tag>.tag-info>.title {
+    color: #4c566a;
+}
+#items-column .content-list-item.selected {
+    background-color: #f2f3f7;
+}
