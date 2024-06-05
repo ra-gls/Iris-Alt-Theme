@@ -6,8 +6,17 @@
   "version": "1.0.0",
   "description": "An update to the Iris theme, reverting to system fonts and changing the main accent color.",
   "url": "https://github.com/ra-gls/Iris-Alt-Theme.git",
-  "download_url": "https://github.com/sn-plugins/advanced-markdown-editor/archive/1.0.184.zip",
-  "latest_url": "https://listed.to/my-plugin-json-link",
-  "marketing_url": "https://standardnotes.com/features/advanced-markdown",
-  "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+  "download_url": "https://github.com/ra-gls/Iris-Alt-Theme/archive/refs/tags/1.0.0.zip",
+  "latest_url": "https://listed.to/p/fAtjFGLSYf",
+  "dock_icon": {
+   "type": "circle",
+   "background_color": "#88c0d0",
+   "foreground_color": "#ffffff",
+   "border_color": "#88c0d0"
 }
+
+},
+"repository": {
+    "type": "git",
+    "url": "https://github.com/ra-gls/Iris-Alt-Theme.git"
+  }
