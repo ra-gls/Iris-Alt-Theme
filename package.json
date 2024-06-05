@@ -1,0 +1,13 @@
+{
+  "identifier": "org.yourdomain.iris-alt",
+  "name": "Iris Alt Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A fully featured Markdown editor that supports live preview, a styling toolbar, and split pane support.",
+  "url": "https://domain.org/link-to-hosted-plugin",
+  "download_url": "https://github.com/sn-plugins/advanced-markdown-editor/archive/1.0.184.zip",
+  "latest_url": "https://listed.to/my-plugin-json-link",
+  "marketing_url": "https://standardnotes.com/features/advanced-markdown",
+  "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+}
